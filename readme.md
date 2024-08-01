@@ -12,7 +12,7 @@ This is a terminal-based speed test application that logs the download and uploa
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/terminal-speedtest.git
+    git clone https://github.com/mehmetkahya0/terminal-speedtest.git
     cd terminal-speedtest
     ```
 
@@ -27,21 +27,3 @@ Run the application with the following command:
 ```sh
 python main.py [--interval INTERVAL] [--log-file LOG_FILE]
 ```
-
-## Prerequisites
-- Python 3.x
-- `speedtest-cli` library
-- `colorama` library
-
-## Installation
-
-1. Clone the repository:
-    ```sh
-    git clone https://github.com/yourusername/terminal-speedtest.git
-    cd terminal-speedtest
-    ```
-
-2. Install the required libraries:
-    ```sh
-    pip install speedtest-cli colorama
-    ```
